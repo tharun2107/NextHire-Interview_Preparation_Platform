@@ -326,7 +326,7 @@ python -m spacy download en_core_web_sm
 
 Start ATS service:
 ```bash
-python run.py
+python app/main.py
 # Server runs on http://localhost:5000
 ```
 
