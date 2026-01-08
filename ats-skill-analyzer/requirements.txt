@@ -1,0 +1,10 @@
+flask
+pandas
+openpyxl
+spacy
+sentence-transformers
+scikit-learn
+torch
+PyMuPDF
+rapidfuzz
+transformers
