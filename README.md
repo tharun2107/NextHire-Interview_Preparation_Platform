@@ -308,7 +308,7 @@ ATS_SERVICE_URL=http://localhost:5000
 
 Start backend:
 ```bash
-npm start
+node index
 # Server runs on http://localhost:5001
 ```
 
